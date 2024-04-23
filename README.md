@@ -1,7 +1,7 @@
 # Hi there, welcome to My GitHub! 👋
 
 
-## 🙋‍♂️ Who Am I?
+## 🙋 Who Am I?
 After several years in various roles, I found my passion in technology, starting with an enriching two-plus years at Apple. At the ripe age of 25, I pivoted to building automation and spent a decade mastering industrial, commercial, and residential electricity. My projects ranged from production line setups to sophisticated home automation systems.
 
 A tech enthusiast since the days of LEGO Technics, I've embraced the digital side of technology with a focus on Arduino and Raspberry Pi projects, which merge my love for engineering with practical applications.
