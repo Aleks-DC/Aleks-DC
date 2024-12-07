@@ -10,8 +10,8 @@ A tech enthusiast since the days of LEGO Technics, I've embraced the digital sid
 Now moving into the second chapter of my career, I am fully engaged in the design and development of software and applications. This transition is fueled by my commitment to lifelong learning and my fascination with the endless possibilities in the tech world.
 
 ## 💻 Technologies
-- **Proficient in**: HTML/CSS, JavaScript, Python, C
-- **Currently learning**: JAVA, PHP, C#
+- **Proficient in**: HTML/CSS, JavaScript, PHP, Python, C
+- **Currently learning**: JAVA, TypeScript, C#
 
 ## 🛠️ Projects
 - **Arduino & Raspberry Pi**: My portfolio features projects that automate everyday tasks, enhance security, and integrate smart technology into traditional environments.
