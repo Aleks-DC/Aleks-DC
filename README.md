@@ -24,6 +24,6 @@ When not glued to a computer screen, I enjoy:
 - **Reading**: A bookworm for science fiction classics from the likes of Verne and Asimov to Bradbury and Barjavel.
 
 ## 👨‍👩‍👦 Family Life
-I'm blessed with a wonderful wife, an amazing son born in 2022, and a really cool cocker spaniel who add joy and excitement to my life every day.
+I'm blessed with a wonderful wife, two amazing sons, and a really cool cocker spaniel who add joy and excitement to my life every day.
 
 Your thoughts, feedback, and contributions to my projects are always welcome. Feel free to fork, star, and comment. Let's explore the potential of technology together
