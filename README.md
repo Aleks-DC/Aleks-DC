@@ -1,7 +1,7 @@
 # Hi there, welcome to My GitHub! 👋
 
 
-## 🙋 Who Am I?
+## 🙋🏽‍♂️ Who Am I?
 After several years in various roles, I found my passion in technology, starting with an enriching two-plus years at Apple. At the ripe age of 25, I pivoted to building automation and spent a decade mastering industrial, commercial, and residential electricity. My projects ranged from production line setups to sophisticated home automation systems.
 
 A tech enthusiast since the days of LEGO Technics, I've embraced the Digital Side of technology with a focus on Arduino and Raspberry Pi projects, which merge my love for engineering with practical applications.
@@ -11,7 +11,7 @@ Now moving into the second chapter of my career, I am fully engaged in the desig
 
 ## 💻 Technologies
 - **Proficient in**: HTML/CSS, PHP, JavaScript, Python, C
-- **Currently learning**: JAVA, TypeScript, C#
+- **Currently learning**: JAVA, Dart, TypeScript, C#
 
 ## 🛠️ Projects
 - **Arduino & Raspberry Pi**: My portfolio features projects that automate everyday tasks, enhance security, and integrate smart technology into traditional environments.
@@ -23,7 +23,7 @@ When not glued to a computer screen, I enjoy:
 - **Traveling**: Backpacking across continents, exploring diverse cultures and landscapes.
 - **Reading**: A bookworm for science fiction classics from the likes of Verne and Asimov to Bradbury and Barjavel.
 
-## 👨‍👩‍👦 Family Life
+## 🧑‍🧑‍🧒‍🧒 Family Life
 I'm blessed with a wonderful wife, two amazing sons, and a really cool cocker spaniel who add joy and excitement to my life every day.
 
 Your thoughts, feedback, and contributions to my projects are always welcome. Feel free to fork, star, and comment.
